@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full-stack starter
 
 A simple full-stack template using React, Vite, and Express.
@@ -48,3 +49,6 @@ when you choose a production hosting setup.
 frontend/     React UI and Vite configuration
 backend/      Express API and server configuration
 ```
+=======
+# project-manually-operate-changable-
+>>>>>>> 1a2f1c22db430cd0283112554934046a7de24bfe
